@@ -1,3 +1,3 @@
 'use strict'
 
-hexo.extend.deployer.register('tcb', require('./lib/deployer'))
+hexo.extend.deployer.register('cloudbase', require('./lib/deployer'))

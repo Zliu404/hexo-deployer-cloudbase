@@ -1,6 +1,6 @@
 {
   "name": "hexo-deployer-cloudbase",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "用于部署到腾讯云 CloudBase 静态网站托管。",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,9 @@
   },
   "keywords": [
     "cloudbase",
-    "tencent"
+    "tencent",
+    "hexo",
+    "deployer"
   ],
   "dependencies": {
     "@cloudbase/manager-node": "^3.12.0",
