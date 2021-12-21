@@ -10,6 +10,12 @@
     "cloudbase",
     "tencent"
   ],
+  "dependencies": {
+    "@cloudbase/manager-node": "^3.12.0",
+    "chalk": "^1.1.3",
+    "hexo-fs": "^2.0.0"
+  },
   "author": "zliu",
   "license": "MIT"
+  
 }
